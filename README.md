@@ -14,9 +14,9 @@ Insights and recommendations are provided on the following key areas:
   - Loyal Card Program: An assessment of the loyalty card program on customer retention and sales.
   - Regional Comparisons: An evaluation of sales and orders by region.
 
-An interactive Excel dashboard can be downloaded [Here](https://www.datawithbaraa.com/sql-introduction/advanced-sql-project/)
+![Dashboard Overview](https://github.com/nathandavis8/Roam-GrindCoffee/blob/main/Coffee%20Sales%20Dashboard.png?raw=true)
 
-
+The interactive Excel dashboard can be downloaded [Here](https://www.datawithbaraa.com/sql-introduction/advanced-sql-project/)
 
 ## Insights Deep-Dive
 
