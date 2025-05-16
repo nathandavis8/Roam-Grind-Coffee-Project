@@ -3,6 +3,8 @@
 ## Project Background
 Roam & Grind Coffee Co. is an e-commerce company founded in 2019 that specializes in selling specialty coffee beans in the United States, Ireland, and the United Kingdom. I’m partnering with the Head of Operations to extract insights and deliver recommendations to improve performance across sales and marketing teams and create an interactive dashboard that stakeholders can use to compare sales by year, region, and top 5 customers by roast type, product size, and loyalty card status. **This report uses 1k synthetic order records from Jan 2019 to August 2022, with three tables: orders, customers, and products.**
 
+![dashboard schema](https://github.com/nathandavis8/Roam-GrindCoffee/blob/main/Dashboard%20Schema%20QuickDBD.png?raw=true)
+
 ## Executive Summary
 Roam & Grind Coffee Co.’s analysis of sales records from Jan 2019 to Aug 2022 shows annual sales decreasing in 2022 with an 11% downward trend in sales. The US market contributes to 79% of sales, while the UK accounts for only 6%. Sales of all coffee types fluctuate drastically on a month-to-month basis, with no clear seasonality to the fluctuations. There are five anomalies in sales; all spikes in sales were due to bulk purchasing of the 2.5kg bags of coffee. Roam & Grind can benefit from customer re-engagement campaigns, enhancing loyalty card benefits, and introducing a subscription plan to increase customer lifetime value. Targeted growth in Ireland and the UK, with targeted marketing, will strengthen Roam & Grind’s market position and drive sustainable growth. 
 
